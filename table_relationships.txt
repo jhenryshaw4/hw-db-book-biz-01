@@ -1,0 +1,6 @@
+/*
+
+Books, Authors, N:N
+Books, Publishers, N:N 
+Publishers, Editors, 1:N
+Books, Genres: N:N

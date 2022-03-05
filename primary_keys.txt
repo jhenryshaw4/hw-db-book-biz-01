@@ -1,0 +1,11 @@
+/*
+
+AuthorID (Authors)
+PublisherID (Publishers)
+EditorID (Editors)
+BookID (Books)
+GenreID (Genres)
+CustomerID (Customers)
+OrderID (Orders)
+
+*/

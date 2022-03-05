@@ -1,0 +1,43 @@
+/*
+Entity
+    Properties
+
+Authors
+    AuthorID
+    FirstName
+    LastName
+    Email
+    ID
+Publishers
+    PublisherID
+    Name 
+    City
+    Region
+Editors
+    EditorID
+    FirstName
+    LastName
+    Publisher
+Books
+    BookID
+    Name
+    Authors
+    Publisher
+    Editor
+    Rolayties
+    Genre
+Genre
+    GenreID
+    GenreName
+Customers
+    CustomerID
+    FirstName
+    LastName
+    CustomerID
+    Adress
+Orders
+    OrderID
+    Books
+    CustomerID
+    ShipDate
+*/
