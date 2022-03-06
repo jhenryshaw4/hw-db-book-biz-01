@@ -1,0 +1,54 @@
+/*
+Problem 1:
+Authors
+    AuthorID
+    Name
+Publishers
+    PublisherID
+    Name 
+    City
+Editors
+    EditorID
+    Name
+Books
+    BookID
+    Name
+    PublisherID
+    EditorID
+    Rolayties
+    GenreID
+AuthorBook
+    AuthorID
+    BookID
+Genre
+    GenreID
+    GenreName
+Customers
+    CustomerID
+    FirstName
+    LastName
+    CustomerID
+    Adress
+Orders
+    OrderID
+    BookID
+    CustomerID
+    
+Problem 2:
+AuthorID (Authors)
+PublisherID (Publishers)
+EditorID (Editors)
+BookID (Books)
+GenreID (Genres)
+CustomerID (Customers)
+OrderID (Orders)
+
+Problem 3:
+AuthorBook, Books: N:1
+AuthorBook, Authors: N:1
+Publishers, Books: 1:N
+Genres, Books: 1:N
+Editors, Books: 1:N
+Books, Orders: 1:N
+Orders, Customers: 1:1
+*/
